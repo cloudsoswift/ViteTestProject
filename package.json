@@ -9,13 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^4.26.1",
+    "@types/navermaps": "^3.6.4",
+    "autoprefixer": "^10.4.13",
     "graphql": "^16.6.0",
     "graphql-request": "^5.2.0",
+    "postcss": "^8.4.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-query": "^3.39.3",
     "react-router-dom": "^6.8.2",
-    "recoil": "^0.7.7"
+    "recoil": "^0.7.7",
+    "tailwindcss": "^3.2.7"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
